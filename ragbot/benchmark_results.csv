@@ -1,0 +1,60 @@
+idx,query,status,stt_ms,local_total_ms,full_total_ms,retrieval_ms,guardrails_pre_ms,rerank_ms,generation_ms,guardrails_post_ms
+0,What is speech to text?,answered,,13.431,,1.013,11.891,0.013,0.008,0.175
+1,What is chunking strategy?,answered,,1.368,,0.49,0.556,0.008,0.006,0.146
+2,What is hybrid retrieval?,answered,,1.268,,0.349,0.523,0.01,0.006,0.14
+3,What is the orchestration harness?,answered,,1.418,,0.467,0.637,0.008,0.006,0.136
+4,What is guardrails?,answered,,1.269,,0.391,0.551,0.007,0.005,0.16
+5,What is latency optimization?,answered,,2.451,,1.49,0.606,0.008,0.006,0.154
+6,What is the vector database?,answered,,1.306,,0.405,0.567,0.008,0.005,0.137
+7,What is transcript chunking?,answered,,1.288,,0.381,0.542,0.007,0.005,0.175
+8,Explain how speech to text works.,answered,,1.256,,0.369,0.589,0.007,0.005,0.131
+9,Explain how chunking strategy works.,answered,,1.245,,0.354,0.592,0.007,0.005,0.134
+10,Explain how hybrid retrieval works.,answered,,1.263,,0.371,0.539,0.007,0.005,0.186
+11,Explain how the orchestration harness works.,answered,,1.341,,0.374,0.65,0.008,0.006,0.144
+12,Explain how guardrails works.,answered,,1.22,,0.345,0.575,0.008,0.006,0.137
+13,Explain how latency optimization works.,answered,,1.309,,0.397,0.552,0.007,0.005,0.15
+14,Explain how the vector database works.,answered,,1.288,,0.376,0.603,0.008,0.006,0.139
+15,Explain how transcript chunking works.,answered,,1.236,,0.355,0.571,0.007,0.005,0.143
+16,Why is speech to text important in this pipeline?,answered,,1.39,,0.427,0.599,0.007,0.005,0.193
+17,Why is chunking strategy important in this pipeline?,answered,,1.279,,0.369,0.614,0.007,0.005,0.134
+18,Why is hybrid retrieval important in this pipeline?,answered,,1.385,,0.377,0.702,0.007,0.005,0.137
+19,Why is the orchestration harness important in this pipeline?,answered,,1.474,,0.42,0.725,0.009,0.005,0.144
+20,Why is guardrails important in this pipeline?,answered,,1.304,,0.365,0.636,0.008,0.005,0.131
+21,Why is latency optimization important in this pipeline?,answered,,1.332,,0.402,0.597,0.007,0.005,0.168
+22,Why is the vector database important in this pipeline?,answered,,1.4,,0.37,0.717,0.008,0.005,0.138
+23,Why is transcript chunking important in this pipeline?,answered,,1.322,,0.369,0.639,0.007,0.005,0.136
+24,Describe the design of speech to text.,answered,,1.323,,0.42,0.562,0.007,0.005,0.142
+25,Describe the design of chunking strategy.,answered,,1.308,,0.351,0.636,0.007,0.005,0.153
+26,Describe the design of hybrid retrieval.,answered,,1.281,,0.406,0.573,0.007,0.005,0.133
+27,Describe the design of the orchestration harness.,answered,,1.417,,0.394,0.694,0.009,0.005,0.144
+28,Describe the design of guardrails.,answered,,1.334,,0.353,0.66,0.007,0.005,0.146
+29,Describe the design of latency optimization.,answered,,1.291,,0.405,0.567,0.007,0.005,0.128
+30,Describe the design of the vector database.,answered,,1.271,,0.347,0.62,0.007,0.005,0.141
+31,Describe the design of transcript chunking.,answered,,1.297,,0.36,0.621,0.007,0.005,0.149
+32,How does speech to text handle failures?,answered,,1.355,,0.427,0.58,0.007,0.005,0.172
+33,How does chunking strategy handle failures?,answered,,1.269,,0.364,0.598,0.007,0.005,0.138
+34,How does hybrid retrieval handle failures?,answered,,1.319,,0.375,0.632,0.008,0.005,0.139
+35,How does the orchestration harness handle failures?,answered,,1.38,,0.397,0.637,0.007,0.005,0.174
+36,How does guardrails handle failures?,answered,,1.205,,0.351,0.57,0.007,0.005,0.127
+37,How does latency optimization handle failures?,answered,,1.331,,0.371,0.651,0.008,0.005,0.138
+38,How does the vector database handle failures?,answered,,1.278,,0.384,0.572,0.007,0.005,0.157
+39,How does transcript chunking handle failures?,answered,,1.255,,0.37,0.589,0.007,0.005,0.133
+40,What free tools are used for speech to text?,answered,,1.38,,0.385,0.69,0.008,0.006,0.133
+41,What free tools are used for chunking strategy?,answered,,1.319,,0.396,0.588,0.007,0.005,0.17
+42,What free tools are used for hybrid retrieval?,answered,,1.272,,0.386,0.601,0.007,0.005,0.131
+43,What free tools are used for the orchestration harness?,answered,,1.38,,0.356,0.71,0.007,0.005,0.137
+44,What free tools are used for guardrails?,answered,,1.317,,0.395,0.565,0.007,0.005,0.187
+45,What free tools are used for latency optimization?,answered,,1.361,,0.402,0.647,0.007,0.005,0.152
+46,What free tools are used for the vector database?,answered,,1.4,,0.435,0.616,0.007,0.006,0.131
+47,What free tools are used for transcript chunking?,answered,,1.276,,0.365,0.61,0.007,0.005,0.135
+48,Summarize the speech to text approach.,answered,,1.287,,0.376,0.599,0.007,0.005,0.14
+49,Summarize the chunking strategy approach.,answered,,1.252,,0.401,0.553,0.007,0.005,0.133
+50,Summarize the hybrid retrieval approach.,answered,,1.233,,0.353,0.578,0.008,0.005,0.133
+51,Summarize the the orchestration harness approach.,answered,,1.316,,0.369,0.638,0.007,0.005,0.148
+52,Summarize the guardrails approach.,answered,,1.295,,0.407,0.577,0.007,0.005,0.135
+53,Summarize the latency optimization approach.,answered,,1.259,,0.353,0.585,0.008,0.005,0.136
+54,Summarize the the vector database approach.,answered,,1.271,,0.366,0.598,0.007,0.005,0.142
+55,Summarize the transcript chunking approach.,answered,,1.271,,0.339,0.562,0.007,0.005,0.147
+56,What is the best pizza topping in Naples?,refused,,1.236,,0.436,0.698,0.0,0.0,0.0
+57,Who won the last World Cup final?,refused,,1.102,,0.367,0.645,0.0,0.0,0.0
+58,asdkjaslkdj laksjdlkasjd,refused,,1.087,,0.315,0.674,0.0,0.0,0.0
