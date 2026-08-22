@@ -1,0 +1,12 @@
+# Core (required)
+requests
+pydantic>=2.0
+numpy
+faiss-cpu
+rank-bm25
+python-dotenv
+
+# Optional but recommended — pipeline degrades gracefully if absent
+sentence-transformers
+faster-whisper
+tiktoken
